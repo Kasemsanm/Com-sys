@@ -1,0 +1,17 @@
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\bin\Debug\NUnitTest.dll
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\bin\Debug\NUnitTest.pdb
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\bin\Debug\nunit.framework.pdb
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\obj\Debug\NUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\obj\Debug\NUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\obj\Debug\NUnitTest.csproj.CopyComplete
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\obj\Debug\NUnitTest.dll
+C:\Users\Theerawut\Desktop\305351\NUnitTest\NUnitTest\obj\Debug\NUnitTest.pdb

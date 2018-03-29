@@ -1,0 +1,14 @@
+C:\Users\Theerawut\Desktop\305351\BankAccountNS\BankAccountNS\bin\Debug\BankAccountNS.exe.config
+C:\Users\Theerawut\Desktop\305351\BankAccountNS\BankAccountNS\bin\Debug\BankAccountNS.exe
+C:\Users\Theerawut\Desktop\305351\BankAccountNS\BankAccountNS\bin\Debug\BankAccountNS.pdb
+C:\Users\Theerawut\Desktop\305351\BankAccountNS\BankAccountNS\obj\Debug\BankAccountNS.csprojResolveAssemblyReference.cache
+C:\Users\Theerawut\Desktop\305351\BankAccountNS\BankAccountNS\obj\Debug\BankAccountNS.csproj.CoreCompileInputs.cache
+C:\Users\Theerawut\Desktop\305351\BankAccountNS\BankAccountNS\obj\Debug\BankAccountNS.exe
+C:\Users\Theerawut\Desktop\305351\BankAccountNS\BankAccountNS\obj\Debug\BankAccountNS.pdb
+I:\file_upload\uploadedfiles\305351\code\BankAccountNS\BankAccountNS\bin\Debug\BankAccountNS.exe.config
+I:\file_upload\uploadedfiles\305351\code\BankAccountNS\BankAccountNS\bin\Debug\BankAccountNS.exe
+I:\file_upload\uploadedfiles\305351\code\BankAccountNS\BankAccountNS\bin\Debug\BankAccountNS.pdb
+I:\file_upload\uploadedfiles\305351\code\BankAccountNS\BankAccountNS\obj\Debug\BankAccountNS.csprojResolveAssemblyReference.cache
+I:\file_upload\uploadedfiles\305351\code\BankAccountNS\BankAccountNS\obj\Debug\BankAccountNS.csproj.CoreCompileInputs.cache
+I:\file_upload\uploadedfiles\305351\code\BankAccountNS\BankAccountNS\obj\Debug\BankAccountNS.exe
+I:\file_upload\uploadedfiles\305351\code\BankAccountNS\BankAccountNS\obj\Debug\BankAccountNS.pdb

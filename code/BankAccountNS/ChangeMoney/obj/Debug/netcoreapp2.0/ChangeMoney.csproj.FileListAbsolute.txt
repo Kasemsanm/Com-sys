@@ -1,0 +1,4 @@
+I:\file_upload\uploadedfiles\305351\code\BankAccountNS\ChangeMoney\obj\Debug\netcoreapp2.0\ChangeMoney.csprojResolveAssemblyReference.cache
+I:\file_upload\uploadedfiles\305351\code\BankAccountNS\ChangeMoney\obj\Debug\netcoreapp2.0\ChangeMoney.csproj.CoreCompileInputs.cache
+I:\file_upload\uploadedfiles\305351\code\BankAccountNS\ChangeMoney\obj\Debug\netcoreapp2.0\ChangeMoney.AssemblyInfoInputs.cache
+I:\file_upload\uploadedfiles\305351\code\BankAccountNS\ChangeMoney\obj\Debug\netcoreapp2.0\ChangeMoney.AssemblyInfo.cs
